@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Fausto Zalim",
+      "empresa": "sd",
+      "email": "soporte@kybit.mx",
+      "telefono": "+61898981232",
+      "notas": "",
+      "id": 2
+    }
+  ]
+}
